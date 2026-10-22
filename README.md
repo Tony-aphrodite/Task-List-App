@@ -2,6 +2,7 @@
 
 A React Native to-do app for Android and iOS. Tasks are stored on the device with AsyncStorage and can be grouped by category and priority. An optional root component adds Firebase email/password sign-in.
 
+[![CI](https://github.com/Tony-aphrodite/Task-List-App/actions/workflows/ci.yml/badge.svg?branch=ph)](https://github.com/Tony-aphrodite/Task-List-App/actions/workflows/ci.yml)
 ![React Native](https://img.shields.io/badge/React_Native-0.82.1-61DAFB?logo=react&logoColor=white)
 ![React](https://img.shields.io/badge/React-19.1.1-61DAFB?logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.8.3-3178C6?logo=typescript&logoColor=white)
